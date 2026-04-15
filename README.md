@@ -4,8 +4,6 @@
     </a>
 </div>
 
-Olá!
-
 Sou João, tenho 21 anos, sou de Maringá, Paraná, atualmente equilibrando faculdade, estágio e projetos pessoais ao mesmo tempo, como todo bom dev em formação.
 Tenho uma base em linguagens como C++, JavaScript, PHP, HTML, CSS e Java, mas nos últimos tempos meu foco virou banco de dados, MySQL, Oracle e PostgreSQL são onde tenho colocado a maior parte da minha energia.
 Quando não estou olhando pra um terminal, provavelmente estou jogando algum jogo, assistindo um filme, ou acompanhando automobilismo.
@@ -33,6 +31,14 @@ Ainda aprendendo, sempre construindo, dormindo quando dá.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"         
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"         
 />
 <img 
     align="left" 
