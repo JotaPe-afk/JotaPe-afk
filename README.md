@@ -91,10 +91,6 @@ Ainda aprendendo, sempre construindo, dormindo quando dá.
 
 <br/>
 <br/>
-<br/>
-
----
-<br/>
 
 ### Estatísticas
 
