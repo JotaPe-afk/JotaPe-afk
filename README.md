@@ -108,14 +108,14 @@ Ainda aprendendo, sempre construindo, dormindo quando dá.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JotaPe-afk&show_icons=true&theme=dark&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=JotaPe-afk&show_icons=true&theme=dark&locale=pt-br&hide_border=true"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaPe-afk&theme=dark&layout=compact" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaPe-afk&theme=dark&layout=compact&hide_border=true" 
   />
   
 <picture align="center">
