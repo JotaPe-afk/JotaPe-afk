@@ -115,7 +115,7 @@ Ainda aprendendo, sempre construindo, dormindo quando dá.
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaPe-afk&theme=dark&layout=donut" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaPe-afk&theme=dark&layout=compact" 
   />
   
 <picture align="center">
